@@ -62,3 +62,21 @@ Share data via sms
 - Logout button with sharedpreference
 
 - Read user login state with sharepreference
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
