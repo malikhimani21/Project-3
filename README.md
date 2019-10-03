@@ -63,6 +63,14 @@ Share data via sms
 
 - Read user login state with sharepreference
 
+- Insert Data into Firebase
+
+- View Data from Firebase
+
+- Share firebase data to another ap
+
+-
+
 
 
 
