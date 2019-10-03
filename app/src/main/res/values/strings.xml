@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quote App</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="username">malik</string>
+    <string name="password">123</string>
+
+    <string name="login_preference">com.exam.login_preference</string>
+    <string name="login_status_preferences">com.exam.login_status_preferences</string>
+
+    <string name="admin_login">Login as.. <font color="#f00">Admin</font></string>
+    <string name="new_user">New user ? <font color="#f00">Sign up here...</font></string>
+
+    <string-array name="quote_category">
+        <item>Inspiration</item>
+        <item>Success</item>
+        <item>Motivational</item>
+        <item>Life</item>
+        <item>Love</item>
+        <item>Freedom</item>
+        <item>Challenge</item>
+        <item>Change</item>
+        <item>Dream</item>
+        <item>Time</item>
+        <item>Pain</item>
+        <item>Work</item>
+        <item>Trust</item>
+    </string-array>
+</resources>
