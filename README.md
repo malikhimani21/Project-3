@@ -67,9 +67,8 @@ Share data via sms
 
 - View Data from Firebase
 
-- Share firebase data to another ap
+- Share firebase data to another app
 
--
 
 
 
